@@ -1,7 +1,7 @@
 @echo off
 REM Change directory to your project folder
 cd /d "C:\Users\pooja\PycharmProjects\HybridFramework"
-call C:\Users\Pooja\AppData\Local\Programs\Python\Python311\python.exe
+call C:\Users\pooja\AppData\Local\Programs\Python\Python311\python.exe
 
 
 REM Run pytest with your options
