@@ -4,7 +4,7 @@ from selenium import webdriver
 @pytest.fixture
 def setup(browser):
     if browser=='edge':
-        driver=webdriver.Edge()
+        driver=webdriver.Edge(service=Service("C:\Users\pooja\.cache\selenium\msedgedriver\win64\150.0.4078.48\msedgedriver.exe"))
         driver.maximize_window()
     elif browser=='chrome':
         driver=webdriver.Chrome()
