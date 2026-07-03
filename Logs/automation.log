@@ -199,3 +199,10 @@
 02-Jul-26 20:28:52 PM - root - INFO - ********************* Adding employee details *******************
 02-Jul-26 20:28:54 PM - root - INFO - ********************* Adding username and password for Employee *******************
 02-Jul-26 20:28:56 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
+03-Jul-26 17:52:32 PM - root - INFO - **************************Test Case: Test Login page********************
+03-Jul-26 17:52:35 PM - root - INFO - **************************Trying to login with username and password**********************
+03-Jul-26 17:52:35 PM - root - INFO - **************************login successful********************
+03-Jul-26 17:52:43 PM - root - INFO - **************************Test case: Test logout**********************
+03-Jul-26 17:52:46 PM - root - INFO - **************************Logging in with valid username and password**********************
+03-Jul-26 17:52:47 PM - root - INFO - **************************Clicked Log Out*********************
+03-Jul-26 17:52:49 PM - root - INFO - **************************Logged out Successfully**********************
