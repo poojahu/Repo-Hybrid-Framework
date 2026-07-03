@@ -1,10 +1,22 @@
 import pytest
 from selenium import webdriver
+from selenium.webdriver.edge.options import Options
 
 @pytest.fixture
 def setup(browser):
-    if browser=='edge':
-        driver=webdriver.Edge()
+    if browser == 'edge':
+        options = Options()
+        # Critical flags for Jenkins stability
+        options.add_argument("--remote-debugging-port=9222")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--headless=new")   # important in CI
+
+        # Force a clean profile directory so Edge doesn't try to use SYSTEM defaults
+        options.add_argument("--user-data-dir=C:\\Temp\\EdgeProfile")
+
+        driver = webdriver.Edge(options=options)  # Selenium 4 auto-manages driver
         driver.maximize_window()
     elif browser=='chrome':
         driver=webdriver.Chrome()
