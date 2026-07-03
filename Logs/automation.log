@@ -1,0 +1,201 @@
+30-Jun-26 16:03:08 PM - root - INFO - **************************Test Case: Test Login page for DDT ********************
+30-Jun-26 16:03:09 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+30-Jun-26 16:03:13 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+30-Jun-26 16:03:19 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+30-Jun-26 16:03:22 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+30-Jun-26 16:03:26 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+30-Jun-26 16:03:31 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+30-Jun-26 16:03:35 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+30-Jun-26 16:03:38 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+30-Jun-26 16:03:42 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+30-Jun-26 16:03:45 PM - root - INFO - ********************** Test Login DDT Passed **************************
+30-Jun-26 16:03:46 PM - root - INFO - ********************** End of Test login DDT *****************************
+01-Jul-26 15:38:09 PM - root - INFO - **************************Test Case: Test Login page for DDT ********************
+01-Jul-26 15:38:10 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+01-Jul-26 15:38:14 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+01-Jul-26 15:38:23 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+01-Jul-26 15:38:26 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+01-Jul-26 15:38:30 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+01-Jul-26 15:38:37 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+01-Jul-26 15:38:40 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+01-Jul-26 15:38:45 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+01-Jul-26 15:38:49 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+01-Jul-26 15:38:52 PM - root - INFO - ********************** Test Login DDT Passed **************************
+01-Jul-26 15:38:52 PM - root - INFO - ********************** End of Test login DDT *****************************
+01-Jul-26 15:39:28 PM - root - INFO - **************************Test Case: Test Login page********************
+01-Jul-26 15:39:33 PM - root - INFO - **************************Trying to login with username and password**********************
+01-Jul-26 15:39:39 PM - root - INFO - **************************login successful********************
+01-Jul-26 15:39:47 PM - root - INFO - **************************Test case: Test logout**********************
+01-Jul-26 15:39:49 PM - root - INFO - **************************Logging in with valid username and password**********************
+01-Jul-26 15:39:57 PM - root - INFO - **************************Clicked Log Out*********************
+01-Jul-26 15:39:57 PM - root - INFO - **************************Logged out Successfully**********************
+01-Jul-26 16:32:13 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 16:32:16 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 16:32:16 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 16:34:12 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 16:34:18 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 16:34:19 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 16:38:13 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 16:38:20 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 16:38:20 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 16:55:19 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 16:55:25 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 16:55:25 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 16:57:52 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 16:57:52 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 16:57:57 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:01:14 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:01:14 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:01:21 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:02:03 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:02:03 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:02:09 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:02:12 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:02:54 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:02:54 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:02:59 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:03:01 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:03:03 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 17:10:21 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:10:21 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:10:25 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:10:26 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:10:30 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 17:14:19 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:14:19 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:14:23 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:14:25 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:14:28 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 17:16:00 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:16:00 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:16:08 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:16:48 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:16:48 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:17:23 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:17:23 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:17:30 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:17:33 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:17:37 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 17:23:51 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:23:51 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:23:56 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:23:58 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:24:00 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 17:24:03 PM - root - INFO - ********************* Adding username and password for Employee *******************
+01-Jul-26 17:24:04 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
+01-Jul-26 17:41:50 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:41:50 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:41:57 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:41:59 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:42:04 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 17:43:16 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:43:16 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:43:21 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:43:23 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:43:27 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 17:43:28 PM - root - INFO - ********************* Adding username and password for Employee *******************
+01-Jul-26 17:43:28 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
+01-Jul-26 17:47:37 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:47:37 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:47:43 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:47:44 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:47:47 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 17:47:48 PM - root - INFO - ********************* Adding username and password for Employee *******************
+01-Jul-26 17:47:48 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
+01-Jul-26 17:55:26 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 17:55:26 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 17:55:32 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 17:55:34 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 17:55:40 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 17:55:41 PM - root - INFO - ********************* Adding username and password for Employee *******************
+01-Jul-26 17:55:42 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
+01-Jul-26 18:23:57 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+01-Jul-26 18:23:57 PM - root - INFO - ********************* Opening the URL *******************
+01-Jul-26 18:24:02 PM - root - INFO - ********************* Logging in with Credentials *******************
+01-Jul-26 18:24:04 PM - root - INFO - ********************* Going to PIM page *******************
+01-Jul-26 18:24:08 PM - root - INFO - ********************* Adding employee details *******************
+01-Jul-26 18:24:09 PM - root - INFO - ********************* Adding username and password for Employee *******************
+01-Jul-26 18:24:09 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
+02-Jul-26 11:46:13 AM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+02-Jul-26 11:46:13 AM - root - INFO - ********************* Opening the URL *******************
+02-Jul-26 11:46:19 AM - root - INFO - ********************* Logging in with Credentials *******************
+02-Jul-26 11:46:20 AM - root - INFO - ********************* Going to PIM page *******************
+02-Jul-26 11:46:24 AM - root - INFO - ********************* Adding employee details *******************
+02-Jul-26 11:46:25 AM - root - INFO - ********************* Adding username and password for Employee *******************
+02-Jul-26 11:46:26 AM - root - INFO - ********************* Saving details entered for Empolyee *******************
+02-Jul-26 11:50:03 AM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+02-Jul-26 11:50:03 AM - root - INFO - ********************* Opening the URL *******************
+02-Jul-26 11:50:09 AM - root - INFO - ********************* Logging in with Credentials *******************
+02-Jul-26 11:50:11 AM - root - INFO - ********************* Going to PIM page *******************
+02-Jul-26 11:50:15 AM - root - INFO - ********************* Adding employee details *******************
+02-Jul-26 11:50:15 AM - root - INFO - ********************* Adding username and password for Employee *******************
+02-Jul-26 11:50:16 AM - root - INFO - ********************* Saving details entered for Empolyee *******************
+02-Jul-26 11:59:10 AM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+02-Jul-26 11:59:10 AM - root - INFO - ********************* Opening the URL *******************
+02-Jul-26 11:59:21 AM - root - INFO - ********************* Logging in with Credentials *******************
+02-Jul-26 11:59:30 AM - root - INFO - ********************* Going to PIM page *******************
+02-Jul-26 11:59:39 AM - root - INFO - ********************* Adding employee details *******************
+02-Jul-26 11:59:40 AM - root - INFO - ********************* Adding username and password for Employee *******************
+02-Jul-26 11:59:40 AM - root - INFO - ********************* Saving details entered for Empolyee *******************
+02-Jul-26 12:00:21 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+02-Jul-26 12:00:21 PM - root - INFO - ********************* Opening the URL *******************
+02-Jul-26 12:00:28 PM - root - INFO - ********************* Logging in with Credentials *******************
+02-Jul-26 12:00:29 PM - root - INFO - ********************* Going to PIM page *******************
+02-Jul-26 12:00:32 PM - root - INFO - ********************* Adding employee details *******************
+02-Jul-26 12:00:33 PM - root - INFO - ********************* Adding username and password for Employee *******************
+02-Jul-26 12:00:33 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
+02-Jul-26 12:03:50 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+02-Jul-26 12:03:50 PM - root - INFO - ********************* Opening the URL *******************
+02-Jul-26 12:03:57 PM - root - INFO - ********************* Logging in with Credentials *******************
+02-Jul-26 12:03:59 PM - root - INFO - ********************* Going to PIM page *******************
+02-Jul-26 12:04:02 PM - root - INFO - ********************* Adding employee details *******************
+02-Jul-26 12:04:03 PM - root - INFO - ********************* Adding username and password for Employee *******************
+02-Jul-26 12:04:06 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
+02-Jul-26 12:44:13 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+02-Jul-26 12:44:13 PM - root - INFO - ********************* Opening the URL *******************
+02-Jul-26 12:44:21 PM - root - INFO - ********************* Logging in with Credentials *******************
+02-Jul-26 12:44:24 PM - root - INFO - ********************* Going to PIM page *******************
+02-Jul-26 12:44:31 PM - root - INFO - ********************* Adding employee details *******************
+02-Jul-26 12:44:33 PM - root - INFO - ********************* Adding username and password for Employee *******************
+02-Jul-26 12:44:35 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
+02-Jul-26 20:20:22 PM - root - INFO - **************************Test Case: Test Login page********************
+02-Jul-26 20:20:23 PM - root - INFO - **************************Trying to login with username and password**********************
+02-Jul-26 20:20:24 PM - root - INFO - **************************login successful********************
+02-Jul-26 20:20:31 PM - root - INFO - **************************Test case: Test logout**********************
+02-Jul-26 20:20:32 PM - root - INFO - **************************Logging in with valid username and password**********************
+02-Jul-26 20:24:11 PM - root - INFO - **************************Test Case: Test Login page********************
+02-Jul-26 20:24:12 PM - root - INFO - **************************Trying to login with username and password**********************
+02-Jul-26 20:24:13 PM - root - INFO - **************************Login Failed********************
+02-Jul-26 20:24:20 PM - root - INFO - **************************Test case: Test logout**********************
+02-Jul-26 20:24:21 PM - root - INFO - **************************Logging in with valid username and password**********************
+02-Jul-26 20:24:24 PM - root - INFO - **************************Clicked Log Out*********************
+02-Jul-26 20:24:24 PM - root - INFO - **************************Logged out Successfully**********************
+02-Jul-26 20:26:35 PM - root - INFO - **************************Test Case: Test Login page********************
+02-Jul-26 20:26:36 PM - root - INFO - **************************Trying to login with username and password**********************
+02-Jul-26 20:26:37 PM - root - INFO - **************************login successful********************
+02-Jul-26 20:26:45 PM - root - INFO - **************************Test case: Test logout**********************
+02-Jul-26 20:26:46 PM - root - INFO - **************************Logging in with valid username and password**********************
+02-Jul-26 20:26:49 PM - root - INFO - **************************Clicked Log Out*********************
+02-Jul-26 20:26:51 PM - root - INFO - **************************Logged out Successfully**********************
+02-Jul-26 20:27:42 PM - root - INFO - **************************Test Case: Test Login page********************
+02-Jul-26 20:27:43 PM - root - INFO - **************************Trying to login with username and password**********************
+02-Jul-26 20:27:44 PM - root - INFO - **************************Login Failed********************
+02-Jul-26 20:27:52 PM - root - INFO - **************************Test Case: Test Login page for DDT ********************
+02-Jul-26 20:27:56 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+02-Jul-26 20:28:00 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+02-Jul-26 20:28:06 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+02-Jul-26 20:28:09 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+02-Jul-26 20:28:13 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+02-Jul-26 20:28:18 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+02-Jul-26 20:28:22 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+02-Jul-26 20:28:26 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+02-Jul-26 20:28:29 PM - root - INFO - **************************Trying login with username and password from excel sheet **********************
+02-Jul-26 20:28:32 PM - root - INFO - ********************** Test Login DDT Passed **************************
+02-Jul-26 20:28:32 PM - root - INFO - ********************** End of Test login DDT *****************************
+02-Jul-26 20:28:33 PM - root - INFO - ********************** Test PIM add Emp Testcase ******************************
+02-Jul-26 20:28:33 PM - root - INFO - ********************* Opening the URL *******************
+02-Jul-26 20:28:40 PM - root - INFO - ********************* Logging in with Credentials *******************
+02-Jul-26 20:28:45 PM - root - INFO - ********************* Going to PIM page *******************
+02-Jul-26 20:28:52 PM - root - INFO - ********************* Adding employee details *******************
+02-Jul-26 20:28:54 PM - root - INFO - ********************* Adding username and password for Employee *******************
+02-Jul-26 20:28:56 PM - root - INFO - ********************* Saving details entered for Empolyee *******************
