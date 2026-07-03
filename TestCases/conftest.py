@@ -1,5 +1,6 @@
 import pytest
 from selenium import webdriver
+from selenium.webdriver.edge.service import Service
 
 @pytest.fixture
 def setup(browser):
