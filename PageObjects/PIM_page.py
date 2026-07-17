@@ -88,9 +88,7 @@ class PIM_Page:
     def get_errors(self):
         errors=self.driver.find_elements(By.XPATH,self.pim_add_emp_form_error_xpath)
         print(len(errors))
-        if len(errors)==1:
-            print(errors.text)
-        elif len(errors)>1:
+        if len(errors)>=1:
             for er in errors:
                 print(er.text)
         else:
