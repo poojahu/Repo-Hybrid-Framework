@@ -19,10 +19,14 @@ def setup(browser):
         driver = webdriver.Edge(options=options)  # Selenium 4 auto-manages driver
         driver.maximize_window()
     elif browser=='chrome':
-        driver=webdriver.Chrome()
+        opt=webdriver.ChromeOptions()
+        opt.add_argument("--incognito")
+        driver=webdriver.Chrome(options=opt)
         driver.maximize_window()
     else:
-        driver = webdriver.Chrome()
+        opt=webdriver.ChromeOptions()
+        opt.add_argument("--incognito")
+        driver=webdriver.Chrome(options=opt)
         driver.maximize_window()
     return driver
 
