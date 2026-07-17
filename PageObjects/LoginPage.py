@@ -22,10 +22,10 @@ class LoginPage:
         self.driver.find_element(By.XPATH,self.password_xpath).send_keys(password)
 
     def click_login(self):
-        self.driver.find_element(By.XPATH,self.login_button_xpath).click()
-        WebDriverWait(self.driver, 8).until(EC.presence_of_element_located((By.XPATH, self.user_icon_xpath)))
+        self.driver.find_element(By.XPATH,self.login_button_xpath).click()        
 
     def click_usericon(self):
+        WebDriverWait(self.driver, 8).until(EC.presence_of_element_located((By.XPATH, self.user_icon_xpath)))
         self.driver.find_element(By.XPATH,self.user_icon_xpath).click()
 
     def click_logout(self):
